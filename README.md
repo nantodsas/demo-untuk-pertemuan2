@@ -6,3 +6,4 @@ aplikasi training
 
 nanto
 anonymous
+fulan bin fulan
